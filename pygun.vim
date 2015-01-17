@@ -27,7 +27,7 @@ hi Normal      ctermfg=253  ctermbg=NONE  cterm=NONE
 hi Number      ctermfg=141  ctermbg=NONE  cterm=NONE
 hi Float       ctermfg=141  ctermbg=NONE  cterm=NONE
 hi Statement   ctermfg=208  ctermbg=NONE  cterm=bold
-hi Function    ctermfg=35   ctermbg=NONE  cterm=NONE
+hi Function    ctermfg=82   ctermbg=NONE  cterm=bold
 hi Conditional ctermfg=136  ctermbg=NONE  cterm=NONE
 hi Operator    ctermfg=208  ctermbg=NONE  cterm=NONE
 hi Todo        ctermfg=253  ctermbg=NONE  cterm=bold
