@@ -1,6 +1,6 @@
-" Vim colorscheme -- PyChimp 
+" Vim colorscheme -- PyChimp
 "
-" Crated specifically for Python coding ! (For other languages, I do suggest that 
+" Crated specifically for Python coding ! (For other languages, I do suggest that
 " you find other colorschemes, there are loads !)
 "
 " Author: Pratheek <pratheek.i@gmail.com>
@@ -11,8 +11,8 @@
 "
 " This colorscheme is specifically created, to work in a translucent
 " background provided by terminal and supports 256 color terminals
-" 
-" Tip -- add <t_Co=256> in your ~/.vimrc to utilize the theme well. 
+"
+" Tip -- add <t_Co=256> in your ~/.vimrc to utilize the theme well.
 "
 " Thats it ! Hope you like it ! :)
 
@@ -20,9 +20,9 @@ let g:colors_name = "pychimp"
 
 " The Basic (Normal) Text Style
 
-hi Normal      ctermfg=253  ctermbg=NONE  cterm=NONE 
+hi Normal      ctermfg=253  ctermbg=NONE  cterm=NONE
 
-" All the Python related stuff 
+" All the Python related stuff
 
 hi Number      ctermfg=141  ctermbg=NONE  cterm=NONE
 hi Float       ctermfg=141  ctermbg=NONE  cterm=NONE
@@ -54,7 +54,7 @@ hi NonText     ctermfg=58   ctermbg=NONE  cterm=NONE
 hi Pmenu       ctermfg=81   ctermbg=16    cterm=NONE
 hi PmenuSel    ctermfg=202  ctermbg=16    cterm=NONE
 hi PmenuSbar   ctermfg=81   ctermbg=16    cterm=NONE
-hi PmenuThumb  ctermfg=81   ctermbg=16    cterm=NONE 
+hi PmenuThumb  ctermfg=81   ctermbg=16    cterm=NONE
 hi Search      ctermfg=253  ctermbg=66    cterm=NONE
 hi IncSearch   ctermfg=253  ctermbg=66    cterm=NONE
 hi TabLine     ctermfg=3    ctermbg=NONE  cterm=NONE
