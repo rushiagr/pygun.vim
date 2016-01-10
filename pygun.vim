@@ -43,6 +43,7 @@ hi Character   ctermfg=142  ctermbg=NONE  cterm=NONE
 
 "Vim Stuff
 
+hi ColorColumn ctermfg=253  ctermbg=235   cterm=NONE
 hi Visual      ctermfg=253  ctermbg=235   cterm=NONE
 hi VertSplit   ctermfg=232  ctermbg=244   cterm=NONE
 hi ErrorMsg    ctermfg=88   ctermbg=172   cterm=bold
