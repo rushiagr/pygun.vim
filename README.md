@@ -1,7 +1,8 @@
 PyGun
 -----
 
-The theme which works best for me.
-
-Background in my env is the solarized dark blue. I don't know how this theme
-will look with other color as the background.
+An opinionated theme built on top of PyChimp theme, which itself was inspired
+by Molokai theme. The theme is supposed to be used within a terminal which has
+a dark background.
+The theme uses colours which are catchy and at the same time pleasing
+to eyes.
